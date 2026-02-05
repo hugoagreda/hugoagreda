@@ -1,6 +1,4 @@
----
-
-## Selected work
+# Selected work
 - **Private Real Estate CRM**  
   Design and development of an internal CRM system for a real estate business,
   including data models, workflows and automation.  

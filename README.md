@@ -8,8 +8,5 @@
   Academic and personal projects focused on data processing, NLP and applied
   machine learning.
 
-- **Automation & Digital Infrastructure**  
-  Event-driven workflows, integrations and internal tools for operational efficiency.
-
 ---
 

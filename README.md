@@ -1,58 +1,114 @@
 <h1 align="center">Hugo Agreda</h1>
-<h3 align="center">Technical Founder in Progress · AI Infrastructure & Operational Systems</h3>
+<h3 align="center">AI Automation & Systems Developer</h3>
 
 <p align="center">
-Building interoperable digital infrastructures where structured data, automation and AI orchestration converge into scalable operational ecosystems.
+Building automation systems, AI workflows and data infrastructures that turn operations into scalable digital systems.
 </p>
 
 ---
 
-## Ecosystem Architecture
+## What I Build
 
-### RECOM – Operational Infrastructure
-Designing and implementing the digital backbone for a real estate operation.
+• AI automation workflows  
+• Python-based data systems  
+• API integrations and backend services  
+• Computer vision experimentation  
+• Operational infrastructure for digital businesses  
 
-- Modular CRM system architecture  
-- Structured relational data modeling  
-- Workflow automation layer  
-- Reporting & operational intelligence pipelines  
-- Scalability-oriented system design  
-
-Status: Active infrastructure development (private repositories)
+My work focuses on designing systems where **data, automation and AI interact to create scalable operational processes.**
 
 ---
 
-### OrchestrAI – Intelligence Coordination Layer
-AI orchestration framework focused on system-level coordination between models, workflows and operational infrastructure.
+## Selected Projects
 
-- Capability-based task delegation  
-- Agent interaction architecture  
-- Modular workflow composition  
-- Integration with business systems  
+### ImageScoreAI
+Computer vision system designed to evaluate the quality of real estate images using AI.
 
-Status: Active development
+**Key ideas**
+- Image feature extraction using modern vision models
+- Quality scoring pipeline
+- Data-driven evaluation for visual assets
+
+**Stack**
+Python · CLIP · Scikit-learn · FastAPI
+
+Status: 🚧 In development
 
 ---
 
-### Experimental Systems
-Applied AI and data-driven projects expanding system capabilities.
+### ParkVision
+Experimental computer vision pipeline for real-time parking space detection.
 
-- Computer vision experimentation (ImageScoreAI)  
-- Data processing and evaluation pipelines  
+**Key ideas**
+- Video frame analysis
+- Object detection pipeline
+- Real-time parking availability estimation
+
+**Stack**
+Python · OpenCV · Computer Vision
+
+Status: 🚧 Active experimentation
+
+---
+
+### OrchestrAI
+Framework exploring coordination between AI models, workflows and operational systems.
+
+**Focus**
+- Capability-based task delegation
+- Modular workflow orchestration
+- Integration with operational infrastructure
+
+Status: 🚧 Early-stage architecture
+
+---
+
+## Infrastructure Work
+
+### RECOM – Operational Infrastructure (Private)
+
+Designing the digital backbone for a real estate operation.
+
+**Components**
+- Modular CRM architecture
+- Structured relational data models
+- Automation workflows
+- Operational reporting pipelines
+
+Status: Active development (private repositories)
 
 ---
 
 ## Core Domains
 
-Systems Architecture · Infrastructure Design · AI Orchestration · Data Modeling · Automation Systems
+Systems Architecture  
+Automation Systems  
+AI Orchestration  
+Data Modeling  
+Operational Infrastructure  
 
 ---
 
 ## Technical Stack
-Python · SQL · Supabase · n8n · REST APIs · Scikit-learn
+
+Python  
+SQL  
+Supabase  
+n8n  
+REST APIs  
+Scikit-learn  
+
+---
+
+## Currently Exploring
+
+• AI orchestration architectures  
+• Computer vision pipelines  
+• Workflow automation systems  
+• Infrastructure for AI-powered operations  
 
 ---
 
 ## Long-Term Direction
 
-Developing technology ecosystems where infrastructure and intelligence layers compound over time, enabling scalable, semi-autonomous operations across business domains.
+Developing digital infrastructures where **automation, data and intelligence layers compound over time**, enabling scalable and semi-autonomous operations across different business domains.

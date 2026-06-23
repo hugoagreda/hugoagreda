@@ -1,114 +1,100 @@
-<h1 align="center">Hugo Agreda</h1>
-<h3 align="center">AI Automation & Systems Developer</h3>
+<div align="center">
 
-<p align="center">
-Building automation systems, AI workflows and data infrastructures that turn operations into scalable digital systems.
-</p>
+# Hugo Agreda
+### AI Builder • From idea to working product
 
----
+<a href="https://www.linkedin.com/in/hugoagreda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://YOUR-PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:hugoagreda22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## What I Build
+<br/><br/>
 
-• AI automation workflows  
-• Python-based data systems  
-• API integrations and backend services  
-• Computer vision experimentation  
-• Operational infrastructure for digital businesses  
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hugoagreda&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoagreda&layout=compact&theme=radical&hide_border=true"/>
 
-My work focuses on designing systems where **data, automation and AI interact to create scalable operational processes.**
-
----
-
-## Selected Projects
-
-### ImageScoreAI
-Computer vision system designed to evaluate the quality of real estate images using AI.
-
-**Key ideas**
-- Image feature extraction using modern vision models
-- Quality scoring pipeline
-- Data-driven evaluation for visual assets
-
-**Stack**
-Python · CLIP · Scikit-learn · FastAPI
-
-Status: 🚧 In development
+</div>
 
 ---
 
-### ParkVision
-Experimental computer vision pipeline for real-time parking space detection.
+## Portfolio
 
-**Key ideas**
-- Video frame analysis
-- Object detection pipeline
-- Real-time parking availability estimation
+<table>
+<tr>
+<td width="50%">
 
-**Stack**
-Python · OpenCV · Computer Vision
+### 🏠 EstateAI
+RAG assistant for real-estate workflows.  
+[View Repository](https://github.com/hugoagreda/EstateAI)
 
-Status: 🚧 Active experimentation
+</td>
+<td width="50%">
 
----
+### 🖼️ ImageScoreAI
+Explainable image quality scoring for property media.  
+[View Repository](https://github.com/hugoagreda/ImageScoreAI)
 
-### OrchestrAI
-Framework exploring coordination between AI models, workflows and operational systems.
+</td>
+</tr>
 
-**Focus**
-- Capability-based task delegation
-- Modular workflow orchestration
-- Integration with operational infrastructure
+<tr>
+<td width="50%">
 
-Status: 🚧 Early-stage architecture
+### 🚗 ParkVision
+Computer vision occupancy detection from camera feeds.  
+[View Repository](https://github.com/hugoagreda/ParkVision)
 
----
+</td>
+<td width="50%">
 
-## Infrastructure Work
+### 🛡️ FraudXGBoost
+Fraud detection pipeline for imbalanced datasets.  
+[View Repository](https://github.com/hugoagreda/FraudXGBoost)
 
-### RECOM – Operational Infrastructure (Private)
+</td>
+</tr>
 
-Designing the digital backbone for a real estate operation.
+<tr>
+<td width="50%">
 
-**Components**
-- Modular CRM architecture
-- Structured relational data models
-- Automation workflows
-- Operational reporting pipelines
+### 🤖 OrchestrAI
+Multi-agent orchestration for AI workflows.  
+[View Repository](https://github.com/hugoagreda/OrchestrAI)
 
-Status: Active development (private repositories)
+</td>
+<td width="50%">
 
----
+### 🎓 AulaGPT-TFG-2024
+Full-stack AI educational assistant (Django + React).  
+[View Repository](https://github.com/hugoagreda/AulaGPT-TFG-2024)
 
-## Core Domains
-
-Systems Architecture  
-Automation Systems  
-AI Orchestration  
-Data Modeling  
-Operational Infrastructure  
-
----
-
-## Technical Stack
-
-Python  
-SQL  
-Supabase  
-n8n  
-REST APIs  
-Scikit-learn  
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Exploring
+## Operator Stack
 
-• AI orchestration architectures  
-• Computer vision pipelines  
-• Workflow automation systems  
-• Infrastructure for AI-powered operations  
+<div align="center">
 
----
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,c,cpp,java,spring,python" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,git,django,react" />
 
-## Long-Term Direction
+### AI / Data
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,tensorflow,pytorch,sklearn" /><br/>
+<img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_Automate-111827?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white" />
 
-Developing digital infrastructures where **automation, data and intelligence layers compound over time**, enabling scalable and semi-autonomous operations across different business domains.
+### Cloud & Platforms
+<img src="https://skillicons.dev/icons?i=github,aws,vercel,gcp,azure,docker" />
+
+</div>

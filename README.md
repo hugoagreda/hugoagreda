@@ -62,9 +62,9 @@ Fraud detection pipeline for imbalanced datasets.
 <tr>
 <td width="50%">
 
-### 🤖 OrchestrAI
-Multi-agent orchestration for AI workflows.  
-[View Repository](https://github.com/hugoagreda/OrchestrAI)
+### 🎯 RecruitAI
+AI-powered recruitment assistant to streamline candidate screening and matching.  
+[View Repository](https://github.com/hugoagreda/RecruitAI)
 
 </td>
 <td width="50%">

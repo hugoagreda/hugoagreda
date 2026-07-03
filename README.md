@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hugoagreda&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoagreda&layout=compact&theme=radical&hide_border=true"/>
-
 </div>
 
 ---

@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/hugoagreda/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://YOUR-PORTFOLIO.com">
+<a href="https://www.hugoagreda.dev">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:hugoagreda22@gmail.com">
